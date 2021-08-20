@@ -1,5 +1,5 @@
 # sql-challenge
-This is the homework for Unit 9 - SQL - the files are  in the HOMEWORK branch
+This is the homework for Unit 9 - SQL 
 
 The pdf file 9 "SQL Homework - Steve Reiss" includes the ERD chart, the code, and images of the code with the data outputs for all of the data analysis questions
 
