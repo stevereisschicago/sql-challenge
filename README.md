@@ -1,7 +1,7 @@
 # sql-challenge
 This is the homework for Unit 9 - SQL 
 
-The pdf file 9 "SQL Homework - Steve Reiss" includes the ERD chart, the code, and images of the code with the data outputs for all of the data analysis questions
+The pdf file 9 "SQL Homework - Steve Reiss 2" includes the ERD chart, the code, and images of the code with the data outputs for all of the data analysis questions but it was not loading properly, so I also uploaded as a WORD file
 
 The ERD chart is saved in the pdf, but also as both "ERD CHART - SR" and as "QuickDBD-Free Diagram.sql"
 
